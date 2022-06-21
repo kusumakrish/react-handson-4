@@ -1,0 +1,15 @@
+.navbar-nav{
+    height: 60px;
+    width: 100%;
+    background-color: green;
+}
+.nav-link{
+    margin-left: 200px;
+    margin-right: 180px;
+    color: white;
+    font-size: 30px;
+}
+.App{
+    background-Image:linear-gradient(blue,violet,skyblue);
+    padding-bottom: 380px;
+}
